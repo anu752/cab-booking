@@ -6,7 +6,7 @@
 		<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="HandheldFriendly" content="True">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="mobile-web-app-status-bar-style" content="black">
 		<meta name="description" content="Taxi Grabber - HTML Template">
 		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
 		<title>Taxi Grabber - HTML Template</title>
